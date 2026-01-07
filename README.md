@@ -1,5 +1,5 @@
 # 💫 About Me:
- 📙I’m a student of NIT PATNA.<br>🔭 I’m currently working on Web Project for my college.<br>👯 I’m looking to collaborate on Linkedin and for any Project of web Development<br>🌱 I’m currently learning Advance Web Development.<br>
+ 📘 Undergraduate Student at NIT Patna.<br>🔭 Building real-world web projects for my college and portfolio.<br>👯 Open to collaborating on web development projects and technical initiatives.<br>🌱 Continuously learning advanced web technologies and modern frameworks.<br>
 
 
 ## 🌐 Socials:
